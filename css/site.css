@@ -9,3 +9,18 @@ img{
 .carousel{
     width: 100%;
 }
+
+.font{
+ color: #00d2ff;
+}
+
+.modalButton{
+    background-color: #00d2ff;
+    border: .5px solid hsl(191, 100%, 20%);
+    color: #333;
+}
+.modalButton:hover{
+    box-shadow: 0 0 15px hsl(191, 100%, 40%);
+    transition: ease-in-out .3s;
+    color: white;
+}
